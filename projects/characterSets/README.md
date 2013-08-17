@@ -1,5 +1,5 @@
-# Character Sets
-This document contains proposals for character sets, addresses this repository's development of character sets, and lists some popular character sets.
+# Read Me
+This is a *work in progress*. This document contains proposals for character sets, addresses this repository's development of character sets, and lists some popular character sets.
 
 ## Proposals
 
