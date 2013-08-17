@@ -1,6 +1,5 @@
-Webpage Architecture
-=
-This repo is for working on the concept/philosophy of what webpage architecture is.
+# Read Me
+This is a *work in progress*. This repo is for working on the concept/philosophy of what webpage architecture is.
 
 The goals include
 * developing a substitute for
