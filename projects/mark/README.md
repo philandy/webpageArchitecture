@@ -1,5 +1,5 @@
 # Read Me
-Webpage Architecture's proposed alternative to markup is Mark, which relies on its control characters. This project has no reference to HTML's `<mark>` tag.
+This is a *work in progress*. Webpage Architecture's proposed alternative to markup is Mark, which relies on its control characters. This project has no reference to HTML's `<mark>` tag.
 
 An example of Mark:
 ```
